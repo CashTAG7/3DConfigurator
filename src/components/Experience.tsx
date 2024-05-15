@@ -3,7 +3,7 @@ import Chair from './Chair';
 
 export default function Experience() {
   return (
-    <group position={[0, -0.5, 0]}>
+    <group position={[0, -1, 0]}>
       <mesh position={[0, 0, 0]}>
         <Chair />
       </mesh>
